@@ -24,5 +24,5 @@ app.post("/Auth", (req, res) => {
 main();
 
 app.listen(3001, () => {
-    console.log('Servidor rodando na porta 3001');
+    console.log('Servidor rodando na porta 3002');
 });
